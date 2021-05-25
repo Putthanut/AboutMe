@@ -2,6 +2,6 @@
 
 Food: Noodle
 House: Nakhonsawan
-Travel: Phuket 
+ 
 
 My Job: Trader
